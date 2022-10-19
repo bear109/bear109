@@ -1,7 +1,7 @@
 # SeungHan Seo (bear109)
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=250&section=header&text=Seung%20Han&fontSize=90&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:185a9d,100:a82da8&height=250&section=header&text=Seung%20Han&fontSize=90&animation=blink&fontColor=ffffff)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bear109&include_all_commits=true&count_private=true&show_icons=true&theme=cobalt&hide=prs,issues)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bear109&include_all_commits=true&count_private=true&show_icons=true&theme=cobalt&hide=prs,issues)
 
 <h3 align="center">✨ Learning Tech ✨ </h3>
 
@@ -25,4 +25,3 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-square&logo=TailwindCSS&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-square&logo=styled-components&logoColor=white"/>
 </p>
-
